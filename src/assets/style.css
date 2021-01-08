@@ -1,0 +1,37 @@
+.card{
+    background-color:white;
+}
+#body{
+    width: 50%;
+    margin-top: 50px;
+}
+
+body{
+    background-color:#f8f8f8;
+}
+
+#inputtodo{
+    
+    padding: 10px;
+}
+
+#todoitem{
+    background-color: #53d5ec;
+    color:white;
+    font-size: 25px;
+    margin-top: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 50px;
+    
+}
+#todoitem p{
+    padding-left: 30px;
+    padding-top: 5px;
+}
+
+#routerlink{
+    text-decoration: none;
+}
+.list-group-item{
+    padding: 10px;
+}
